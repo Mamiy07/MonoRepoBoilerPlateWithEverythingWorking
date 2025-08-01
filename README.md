@@ -11,3 +11,6 @@ step 5 : and now do npx prisma migrate dev --name Init (db folder)
 step 6 : npx prisma generate (do in db folder only)
 <br><br/>
 step 7 : npm run dev in main folder
+<br><br/>
+
+# you can change the names of folders 
