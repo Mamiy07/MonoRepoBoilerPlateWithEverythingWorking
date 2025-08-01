@@ -1,5 +1,7 @@
 step 1 : git clone https://github.com/Mamiy07/MonoRepoBoilerPlateWithEverythingWorking.git
 <br><br/>
+do cd MonoRepoBoilerPlateWithEverythingWorking 
+<br><br/>
 step 2 : npm install in root folder
 <br><br/>
 step 3 : create .env in packages/db folder and enter your db url
