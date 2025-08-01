@@ -4,7 +4,7 @@ do cd MonoRepoBoilerPlateWithEverythingWorking
 <br><br/>
 step 2 : npm install in root folder
 <br><br/>
-step 3 : create .env in packages/db folder and enter your db url
+step 3 : create .env in packages/db/prisma folder and enter your db url
 <br><br/>
 step 4 : and use npx prisma init in (db folder) 
 <br><br/>
