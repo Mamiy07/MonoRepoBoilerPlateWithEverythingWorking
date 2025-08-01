@@ -6,8 +6,6 @@ step 2 : npm install in root folder
 <br><br/>
 step 3 : create .env in packages/db/prisma folder and enter your db url
 <br><br/>
-step 4 : and use npx prisma init in (db folder) 
-<br><br/>
 step 5 : and now do npx prisma migrate dev --name Init (db folder)
 <br><br/>
 step 6 : npx prisma generate (do in db folder only)
